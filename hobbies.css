@@ -1,0 +1,17 @@
+ul li {
+    color: red;
+    float: left;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+li {
+    font-size: 18px;
+}
+
+section {
+    width: 400px;
+    height: 600px;
+}
